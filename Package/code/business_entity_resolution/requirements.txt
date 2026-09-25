@@ -1,0 +1,2 @@
+# pinned dependencies / environment
+# Anyone should be able to regenerate both output files from the training/test data using only what is in this folder
