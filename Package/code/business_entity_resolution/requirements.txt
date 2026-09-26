@@ -1,2 +1,12 @@
 # pinned dependencies / environment
+<<<<<<< Updated upstream
 # Anyone should be able to regenerate both output files from the training/test data using only what is in this folder
+=======
+# Anyone should be able to regenerate both output files from the training/test data using only what is in this folder.
+
+pandas==2.2.3
+scikit-learn==1.5.2
+rapidfuzz==3.9.6
+jellyfish==1.1.0
+lightgbm==4.5.0
+>>>>>>> Stashed changes
