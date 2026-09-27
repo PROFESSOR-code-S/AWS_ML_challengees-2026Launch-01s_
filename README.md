@@ -50,11 +50,7 @@ filter,
 or one-hot
 our pipeline to only {US, India}, since every test entity — France included — must appear in submission.
 
-<<<<<<< Updated upstream
-There is no separate source column — a record's source is given by its entity_id prefix (S1-/S2-/S3-) and by which file it appears in.
-=======
 NOTE: There is no separate source column — a record's source is given by its entity_id prefix (S1-/S2-/S3-) and by which file it appears in.
->>>>>>> Stashed changes
 
 ### Data File Descriptions-
 
